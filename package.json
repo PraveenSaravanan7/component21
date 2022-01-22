@@ -1,5 +1,8 @@
 {
-  "name": "component21",
+  "name": "@PraveenSaravanan7/component21",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/PraveenSaravanan7"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
